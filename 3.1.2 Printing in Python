@@ -1,0 +1,12 @@
+--Question: 1
+Which Python code segment will display “Hello, world!” on the screen?
+> Answer:
+print("Hello, world!")
+
+--Question: 2
+What does the following Python code display?
+print("Hello")
+print("World")
+> Answer:
+Hello
+World
