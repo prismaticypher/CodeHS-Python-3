@@ -4,13 +4,13 @@
 I will only include **Unit 3 - 15** because I consider unit 1-2 and unit 16 irrelevant.
 
 ## Units (3 - 15)
-- 	Unit 3 - Basic Python and Console Interaction
-- 	Unit 4 - Project: Mad Libs
-- 	Unit 5 - Conditionals
-- 	Unit 6 - Project: Quiz Game
-- 	Unit 7 - Looping
-- 	Unit 8 - Project: Password Authenticator
-- 	Unit 9 - Functions and Exceptions
+- 	Unit 3 — Basic Python and Console Interaction
+- 	Unit 4 — Project: Mad Libs
+- 	Unit 5 — Conditionals
+- 	Unit 6 — Project: Quiz Game
+- 	Unit 7 — Looping
+- 	Unit 8 — Project: Password Authenticator
+- 	Unit 9 — Functions and Exceptions
 - 	Unit 10 - Strings
 - 	Unit 11 - Project: The Game of Pig
 - 	Unit 12 - Creating and Altering Data Structures
