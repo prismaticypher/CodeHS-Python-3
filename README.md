@@ -1,5 +1,4 @@
-# CodeHS - Python 3
-**Python Programming 1 and 2**
+# CodeHS - Python Programming 1 and 2
 
 I will only include **Unit 3 - 15** because I consider unit 1-2 and unit 16 irrelevant.
 
