@@ -21,5 +21,5 @@ I will only include **Unit 3 - 15** because I consider unit 1-2 and unit 16 irre
 ### Contact me on
 - [Discord](https://discordapp.com/users/731039744158466051) - @prismaticypher / prismatic geek#3902
 - [Instagram](https://instagram.com/prismaticgeek) - @prismaticgeek
-- [Twitter / X](https://x.com/the5overeignty) - @the5overeignty
+- [Twitter / X](https://x.com/soveraint) - @soveraint
 - Email - whitesky554221@gmail.com
