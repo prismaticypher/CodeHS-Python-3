@@ -1,6 +1,6 @@
 # CodeHS - Python Programming 1 and 2
 
-I will only include **Unit 3 - 15** because I consider unit 1-2 and unit 16 irrelevant. If you see any bugs in my code, or if my code does not match CodeHS's test cases, tell.
+I will only include **Unit 3 - 15** because I consider unit 1-2 and unit 16 irrelevant. If you see any bugs, missing codes, or if my code does not match CodeHS's test cases, tell.
 
 ## Units (3 - 15)
 - 	Unit 3 — Basic Python and Console Interaction
