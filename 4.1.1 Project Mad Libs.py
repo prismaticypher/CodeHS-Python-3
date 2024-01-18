@@ -1,8 +1,0 @@
-print("Welcome to Mad Libs!")
-noun = input("Enter a noun: ")
-adjective = input("Enter an adjective: ")
-verb = input("Enter a verb: ")
-print("")
-print("Here's your Mad Libs story")
-print("")
-print(f"Once upon a time, there was a {noun} who had a {adjective} {noun}. They loved to {verb} every day.")

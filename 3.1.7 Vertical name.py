@@ -1,5 +1,0 @@
-print("M")
-print("a")
-print("r")
-print("i")
-print("a")
